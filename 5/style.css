@@ -1,0 +1,13 @@
+.page {
+    padding-bottom: 15px;
+}
+
+.limit {
+    padding-bottom: 15px;
+}
+
+.btn {
+    cursor: pointer;
+    color: red;
+    border-color: red;
+}
